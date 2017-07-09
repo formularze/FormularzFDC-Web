@@ -7,7 +7,7 @@ Here you can check out the live version:
 Screenshots
 ========
 <div>
-<img src="http://i.imgur.com/8ESPjJK.png" alt="app-preview" width="470" height="317">
+<img src="http://i.imgur.com/aCes4cA.png" alt="app-preview" width="555" height="295">
 </div>
 
 How it works
